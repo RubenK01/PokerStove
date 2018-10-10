@@ -1,0 +1,34 @@
+﻿PokerStars Hand #124768302072:  Hold'em No Limit (€0.01/€0.02 EUR) - 2014/11/09 12:20:37 CET [2014/11/09 6:20:37 ET]
+Table 'Algedi III' 6-max Seat #5 is the button
+Seat 1: eljudas888 (€2 in chips) 
+Seat 2: kastaracing (€1.44 in chips) 
+Seat 3: rosaenithsa (€0.81 in chips) 
+Seat 5: edgarbermejo (€1.44 in chips) 
+Seat 6: MN-UCM (€0.78 in chips) 
+MN-UCM: posts small blind €0.01
+eljudas888: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to MN-UCM [2h 7c]
+kastaracing: calls €0.02
+rosaenithsa: calls €0.02
+edgarbermejo: raises €0.09 to €0.11
+MN-UCM: folds 
+eljudas888: calls €0.09
+kastaracing: calls €0.09
+rosaenithsa: folds 
+*** FLOP *** [4c 7s Ks]
+eljudas888: checks 
+kastaracing: checks 
+edgarbermejo: bets €0.18
+eljudas888: folds 
+kastaracing: folds 
+Uncalled bet (€0.18) returned to edgarbermejo
+edgarbermejo collected €0.35 from pot
+*** SUMMARY ***
+Total pot €0.36 | Rake €0.01 
+Board [4c 7s Ks]
+Seat 1: eljudas888 (big blind) folded on the Flop
+Seat 2: kastaracing folded on the Flop
+Seat 3: rosaenithsa folded before Flop
+Seat 5: edgarbermejo (button) collected (€0.35)
+Seat 6: MN-UCM (small blind) folded before Flop

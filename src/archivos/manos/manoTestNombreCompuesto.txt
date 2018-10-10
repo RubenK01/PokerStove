@@ -1,0 +1,28 @@
+PokerStars Hand #124768696995:  Hold'em No Limit (€0.01/€0.02 EUR) - 2014/11/09 12:31:02 CET [2014/11/09 6:31:02 ET]
+Table 'Raissa III' 6-max Seat #4 is the button
+Seat 1: desfasii (€2.03 in chips) 
+Seat 3: lunasa (€2.11 in chips) 
+Seat 4: Chúck Norris (€1.97 in chips) 
+Seat 5: MN-UCM (€0.78 in chips) 
+MN-UCM: posts small blind €0.01
+desfasii: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to MN-UCM [Jc Th]
+lunasa: folds 
+Chúck Norris: raises €0.03 to €0.05
+MN-UCM: folds 
+desfasii: calls €0.03
+*** FLOP *** [Ts 6d Ah]
+desfasii: checks 
+Chúck Norris: bets €0.06
+desfasii: folds 
+Uncalled bet (€0.06) returned to Chúck Norris
+Chúck Norris collected €0.11 from pot
+Chúck Norris: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.11 | Rake €0 
+Board [Ts 6d Ah]
+Seat 1: desfasii (big blind) folded on the Flop
+Seat 3: lunasa folded before Flop (didn't bet)
+Seat 4: Chúck Norris (button) collected (€0.11)
+Seat 5: MN-UCM (small blind) folded before Flop

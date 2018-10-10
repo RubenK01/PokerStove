@@ -1,0 +1,706 @@
+﻿PokerStars Hand #124768289404:  Hold'em No Limit (€0.01/€0.02 EUR) - 2014/11/09 12:20:17 CET [2014/11/09 6:20:17 ET]
+Table 'Algedi III' 6-max Seat #3 is the button
+Seat 1: eljudas888 (€1.97 in chips) 
+Seat 2: kastaracing (€1.44 in chips) 
+Seat 3: rosaenithsa (€0.81 in chips) 
+Seat 5: edgarbermejo (€1.45 in chips) 
+Seat 6: MN-UCM (€0.80 in chips) 
+edgarbermejo: posts small blind €0.01
+MN-UCM: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to MN-UCM [9h Ks]
+eljudas888: raises €0.04 to €0.06
+kastaracing: folds 
+rosaenithsa: folds 
+edgarbermejo: folds 
+MN-UCM: folds 
+Uncalled bet (€0.04) returned to eljudas888
+eljudas888 collected €0.05 from pot
+eljudas888: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.05 | Rake €0 
+Seat 1: eljudas888 collected (€0.05)
+Seat 2: kastaracing folded before Flop (didn't bet)
+Seat 3: rosaenithsa (button) folded before Flop (didn't bet)
+Seat 5: edgarbermejo (small blind) folded before Flop
+Seat 6: MN-UCM (big blind) folded before Flop
+
+
+
+PokerStars Hand #124768302072:  Hold'em No Limit (€0.01/€0.02 EUR) - 2014/11/09 12:20:37 CET [2014/11/09 6:20:37 ET]
+Table 'Algedi III' 6-max Seat #5 is the button
+Seat 1: eljudas888 (€2 in chips) 
+Seat 2: kastaracing (€1.44 in chips) 
+Seat 3: rosaenithsa (€0.81 in chips) 
+Seat 5: edgarbermejo (€1.44 in chips) 
+Seat 6: MN-UCM (€0.78 in chips) 
+MN-UCM: posts small blind €0.01
+eljudas888: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to MN-UCM [2h 7c]
+kastaracing: calls €0.02
+rosaenithsa: calls €0.02
+edgarbermejo: raises €0.09 to €0.11
+MN-UCM: folds 
+eljudas888: calls €0.09
+kastaracing: calls €0.09
+rosaenithsa: folds 
+*** FLOP *** [4c 7s Ks]
+eljudas888: checks 
+kastaracing: checks 
+edgarbermejo: bets €0.18
+eljudas888: folds 
+kastaracing: folds 
+Uncalled bet (€0.18) returned to edgarbermejo
+edgarbermejo collected €0.35 from pot
+*** SUMMARY ***
+Total pot €0.36 | Rake €0.01 
+Board [4c 7s Ks]
+Seat 1: eljudas888 (big blind) folded on the Flop
+Seat 2: kastaracing folded on the Flop
+Seat 3: rosaenithsa folded before Flop
+Seat 5: edgarbermejo (button) collected (€0.35)
+Seat 6: MN-UCM (small blind) folded before Flop
+
+
+
+PokerStars Hand #124768330010:  Hold'em No Limit (€0.01/€0.02 EUR) - 2014/11/09 12:21:20 CET [2014/11/09 6:21:20 ET]
+Table 'Algedi III' 6-max Seat #6 is the button
+Seat 1: eljudas888 (€1.89 in chips) 
+Seat 2: kastaracing (€1.33 in chips) 
+Seat 3: rosaenithsa (€0.79 in chips) 
+Seat 5: edgarbermejo (€1.68 in chips) 
+Seat 6: MN-UCM (€0.77 in chips) 
+eljudas888: posts small blind €0.01
+kastaracing: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to MN-UCM [9s 5c]
+rosaenithsa: folds 
+edgarbermejo: calls €0.02
+MN-UCM: folds 
+eljudas888: raises €0.04 to €0.06
+kastaracing: calls €0.04
+edgarbermejo: calls €0.04
+*** FLOP *** [3s Qd 7s]
+eljudas888: bets €0.08
+kastaracing: calls €0.08
+edgarbermejo: calls €0.08
+*** TURN *** [3s Qd 7s] [3d]
+eljudas888: bets €0.40
+kastaracing: folds 
+edgarbermejo: folds 
+Uncalled bet (€0.40) returned to eljudas888
+eljudas888 collected €0.40 from pot
+eljudas888: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.42 | Rake €0.02 
+Board [3s Qd 7s 3d]
+Seat 1: eljudas888 (small blind) collected (€0.40)
+Seat 2: kastaracing (big blind) folded on the Turn
+Seat 3: rosaenithsa folded before Flop (didn't bet)
+Seat 5: edgarbermejo folded on the Turn
+Seat 6: MN-UCM (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #124768355592:  Hold'em No Limit (€0.01/€0.02 EUR) - 2014/11/09 12:22:00 CET [2014/11/09 6:22:00 ET]
+Table 'Algedi III' 6-max Seat #1 is the button
+Seat 1: eljudas888 (€2.15 in chips) 
+Seat 2: kastaracing (€1.19 in chips) 
+Seat 3: rosaenithsa (€0.79 in chips) 
+Seat 5: edgarbermejo (€1.54 in chips) 
+Seat 6: MN-UCM (€0.77 in chips) 
+kastaracing: posts small blind €0.01
+rosaenithsa: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to MN-UCM [Jc 8c]
+edgarbermejo: raises €0.05 to €0.07
+MN-UCM: folds 
+eljudas888: calls €0.07
+kastaracing: calls €0.06
+rosaenithsa: folds 
+*** FLOP *** [9s 2d 5c]
+kastaracing: checks 
+edgarbermejo: bets €0.14
+eljudas888: folds 
+kastaracing: folds 
+Uncalled bet (€0.14) returned to edgarbermejo
+edgarbermejo collected €0.22 from pot
+*** SUMMARY ***
+Total pot €0.23 | Rake €0.01 
+Board [9s 2d 5c]
+Seat 1: eljudas888 (button) folded on the Flop
+Seat 2: kastaracing (small blind) folded on the Flop
+Seat 3: rosaenithsa (big blind) folded before Flop
+Seat 5: edgarbermejo collected (€0.22)
+Seat 6: MN-UCM folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #124768371833:  Hold'em No Limit (€0.01/€0.02 EUR) - 2014/11/09 12:22:26 CET [2014/11/09 6:22:26 ET]
+Table 'Algedi III' 6-max Seat #2 is the button
+Seat 1: eljudas888 (€2.08 in chips) 
+Seat 2: kastaracing (€1.12 in chips) 
+Seat 3: rosaenithsa (€0.77 in chips) 
+Seat 5: edgarbermejo (€1.69 in chips) 
+Seat 6: MN-UCM (€0.77 in chips) 
+rosaenithsa: posts small blind €0.01
+edgarbermejo: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to MN-UCM [Ts 3c]
+MN-UCM: folds 
+eljudas888: calls €0.02
+kastaracing: calls €0.02
+rosaenithsa: folds 
+edgarbermejo: checks 
+*** FLOP *** [Jh 9d 7d]
+edgarbermejo: checks 
+eljudas888: bets €0.08
+kastaracing: calls €0.08
+edgarbermejo: raises €0.08 to €0.16
+eljudas888: calls €0.08
+kastaracing: calls €0.08
+*** TURN *** [Jh 9d 7d] [8h]
+edgarbermejo: checks 
+eljudas888: bets €0.20
+kastaracing: folds 
+edgarbermejo: folds 
+Uncalled bet (€0.20) returned to eljudas888
+eljudas888 collected €0.53 from pot
+eljudas888: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.55 | Rake €0.02 
+Board [Jh 9d 7d 8h]
+Seat 1: eljudas888 collected (€0.53)
+Seat 2: kastaracing (button) folded on the Turn
+Seat 3: rosaenithsa (small blind) folded before Flop
+Seat 5: edgarbermejo (big blind) folded on the Turn
+Seat 6: MN-UCM folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #124768397540:  Hold'em No Limit (€0.01/€0.02 EUR) - 2014/11/09 12:23:06 CET [2014/11/09 6:23:06 ET]
+Table 'Algedi III' 6-max Seat #3 is the button
+Seat 1: eljudas888 (€2.43 in chips) 
+Seat 2: kastaracing (€0.94 in chips) 
+Seat 3: rosaenithsa (€0.76 in chips) 
+Seat 5: edgarbermejo (€1.51 in chips) 
+Seat 6: MN-UCM (€0.77 in chips) 
+edgarbermejo: posts small blind €0.01
+MN-UCM: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to MN-UCM [4c 7h]
+eljudas888: folds 
+kastaracing: calls €0.02
+rosaenithsa: raises €0.02 to €0.04
+edgarbermejo: calls €0.03
+MN-UCM: folds 
+kastaracing: calls €0.02
+*** FLOP *** [Qs 7s 5s]
+edgarbermejo: checks 
+kastaracing: checks 
+rosaenithsa: checks 
+*** TURN *** [Qs 7s 5s] [3d]
+edgarbermejo: checks 
+kastaracing: checks 
+rosaenithsa: checks 
+*** RIVER *** [Qs 7s 5s 3d] [7c]
+edgarbermejo: checks 
+kastaracing: bets €0.02
+rosaenithsa: calls €0.02
+edgarbermejo: calls €0.02
+*** SHOW DOWN ***
+kastaracing: shows [7d 8h] (three of a kind, Sevens)
+rosaenithsa: mucks hand 
+edgarbermejo: mucks hand 
+kastaracing collected €0.19 from pot
+*** SUMMARY ***
+Total pot €0.20 | Rake €0.01 
+Board [Qs 7s 5s 3d 7c]
+Seat 1: eljudas888 folded before Flop (didn't bet)
+Seat 2: kastaracing showed [7d 8h] and won (€0.19) with three of a kind, Sevens
+Seat 3: rosaenithsa (button) mucked [Ac 9h]
+Seat 5: edgarbermejo (small blind) mucked [Kd 5c]
+Seat 6: MN-UCM (big blind) folded before Flop
+
+
+
+PokerStars Hand #124768431451:  Hold'em No Limit (€0.01/€0.02 EUR) - 2014/11/09 12:23:59 CET [2014/11/09 6:23:59 ET]
+Table 'Algedi III' 6-max Seat #5 is the button
+Seat 1: eljudas888 (€2.43 in chips) 
+Seat 2: kastaracing (€1.07 in chips) 
+Seat 3: rosaenithsa (€0.70 in chips) 
+Seat 5: edgarbermejo (€1.45 in chips) 
+Seat 6: MN-UCM (€0.75 in chips) 
+MN-UCM: posts small blind €0.01
+eljudas888: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to MN-UCM [Th 7d]
+kastaracing: folds 
+rosaenithsa: raises €0.02 to €0.04
+edgarbermejo: raises €1.41 to €1.45 and is all-in
+MN-UCM: folds 
+eljudas888: calls €1.43
+rosaenithsa: calls €0.66 and is all-in
+*** FLOP *** [8h 2d 8c]
+*** TURN *** [8h 2d 8c] [Ts]
+*** RIVER *** [8h 2d 8c Ts] [8d]
+*** SHOW DOWN ***
+eljudas888: shows [Qd Ad] (three of a kind, Eights)
+edgarbermejo: shows [Qh Ah] (three of a kind, Eights)
+eljudas888 collected €0.72 from side pot
+edgarbermejo collected €0.72 from side pot
+rosaenithsa: mucks hand 
+eljudas888 collected €1.01 from main pot
+edgarbermejo collected €1.01 from main pot
+*** SUMMARY ***
+Total pot €3.61 Main pot €2.02. Side pot €1.44. | Rake €0.15 
+Board [8h 2d 8c Ts 8d]
+Seat 1: eljudas888 (big blind) showed [Qd Ad] and won (€1.73) with three of a kind, Eights
+Seat 2: kastaracing folded before Flop (didn't bet)
+Seat 3: rosaenithsa mucked [Ac 3d]
+Seat 5: edgarbermejo (button) showed [Qh Ah] and won (€1.73) with three of a kind, Eights
+Seat 6: MN-UCM (small blind) folded before Flop
+
+
+
+PokerStars Hand #124768463301:  Hold'em No Limit (€0.01/€0.02 EUR) - 2014/11/09 12:24:50 CET [2014/11/09 6:24:50 ET]
+Table 'Algedi III' 6-max Seat #6 is the button
+Seat 1: eljudas888 (€2.71 in chips) 
+Seat 2: kastaracing (€1.07 in chips) 
+Seat 5: edgarbermejo (€1.73 in chips) 
+Seat 6: MN-UCM (€0.74 in chips) 
+eljudas888: posts small blind €0.01
+kastaracing: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to MN-UCM [Ad Qh]
+edgarbermejo: folds 
+rosaenithsa leaves the table
+MN-UCM: raises €0.04 to €0.06
+eljudas888: calls €0.05
+kastaracing: calls €0.04
+*** FLOP *** [Ah 2d Tc]
+eljudas888: checks 
+kastaracing: checks 
+MN-UCM: bets €0.10
+eljudas888: folds 
+kastaracing: calls €0.10
+*** TURN *** [Ah 2d Tc] [5d]
+kastaracing: checks 
+MN-UCM: bets €0.20
+kastaracing: calls €0.20
+*** RIVER *** [Ah 2d Tc 5d] [7h]
+kastaracing: checks 
+MN-UCM: bets €0.38 and is all-in
+kastaracing: calls €0.38
+*** SHOW DOWN ***
+MN-UCM: shows [Ad Qh] (a pair of Aces)
+kastaracing: shows [8h 8s] (a pair of Eights)
+MN-UCM collected €1.48 from pot
+*** SUMMARY ***
+Total pot €1.54 | Rake €0.06 
+Board [Ah 2d Tc 5d 7h]
+Seat 1: eljudas888 (small blind) folded on the Flop
+Seat 2: kastaracing (big blind) showed [8h 8s] and lost with a pair of Eights
+Seat 5: edgarbermejo folded before Flop (didn't bet)
+Seat 6: MN-UCM (button) showed [Ad Qh] and won (€1.48) with a pair of Aces
+
+
+
+PokerStars Hand #124768494219:  Hold'em No Limit (€0.01/€0.02 EUR) - 2014/11/09 12:25:39 CET [2014/11/09 6:25:39 ET]
+Table 'Algedi III' 6-max Seat #1 is the button
+Seat 1: eljudas888 (€2.65 in chips) 
+Seat 2: kastaracing (€0.33 in chips) 
+Seat 5: edgarbermejo (€1.73 in chips) 
+Seat 6: MN-UCM (€1.48 in chips) 
+kastaracing: posts small blind €0.01
+edgarbermejo: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to MN-UCM [Qh 4d]
+MN-UCM: folds 
+eljudas888: raises €0.04 to €0.06
+kastaracing: calls €0.05
+edgarbermejo: folds 
+*** FLOP *** [2h 9c 9h]
+kastaracing: checks 
+Beltranus joins the table at seat #3 
+eljudas888: bets €0.34
+kastaracing: folds 
+Uncalled bet (€0.34) returned to eljudas888
+eljudas888 collected €0.13 from pot
+eljudas888: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.14 | Rake €0.01 
+Board [2h 9c 9h]
+Seat 1: eljudas888 (button) collected (€0.13)
+Seat 2: kastaracing (small blind) folded on the Flop
+Seat 5: edgarbermejo (big blind) folded before Flop
+Seat 6: MN-UCM folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #124768512026:  Hold'em No Limit (€0.01/€0.02 EUR) - 2014/11/09 12:26:08 CET [2014/11/09 6:26:08 ET]
+Table 'Algedi III' 6-max Seat #2 is the button
+Seat 1: eljudas888 (€2.72 in chips) 
+Seat 2: kastaracing (€0.27 in chips) 
+Seat 5: edgarbermejo (€1.71 in chips) 
+Seat 6: MN-UCM (€1.48 in chips) 
+Beltranus will be allowed to play after the button
+edgarbermejo: posts small blind €0.01
+MN-UCM: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to MN-UCM [6h 8c]
+eljudas888: raises €0.02 to €0.04
+kastaracing: folds 
+edgarbermejo: calls €0.03
+MN-UCM: folds 
+*** FLOP *** [As 9s 5s]
+edgarbermejo: checks 
+eljudas888: bets €0.02
+edgarbermejo: folds 
+Uncalled bet (€0.02) returned to eljudas888
+eljudas888 collected €0.10 from pot
+eljudas888: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.10 | Rake €0 
+Board [As 9s 5s]
+Seat 1: eljudas888 collected (€0.10)
+Seat 2: kastaracing (button) folded before Flop (didn't bet)
+Seat 5: edgarbermejo (small blind) folded on the Flop
+Seat 6: MN-UCM (big blind) folded before Flop
+
+
+
+PokerStars Hand #124768520411:  Hold'em No Limit (€0.01/€0.02 EUR) - 2014/11/09 12:26:21 CET [2014/11/09 6:26:21 ET]
+Table 'Algedi III' 6-max Seat #5 is the button
+Seat 1: eljudas888 (€2.78 in chips) 
+Seat 2: kastaracing (€0.27 in chips) 
+Seat 5: edgarbermejo (€1.67 in chips) 
+Seat 6: MN-UCM (€1.46 in chips) 
+MN-UCM: posts small blind €0.01
+eljudas888: posts big blind €0.02
+Beltranus: sits out 
+*** HOLE CARDS ***
+Dealt to MN-UCM [4c 6d]
+kastaracing: calls €0.02
+edgarbermejo: calls €0.02
+MN-UCM: folds 
+eljudas888: checks 
+*** FLOP *** [Qc 9d 5c]
+eljudas888: bets €0.02
+kastaracing: calls €0.02
+edgarbermejo: folds 
+*** TURN *** [Qc 9d 5c] [2h]
+eljudas888: bets €0.02
+kastaracing: calls €0.02
+*** RIVER *** [Qc 9d 5c 2h] [8d]
+eljudas888: bets €0.06
+kastaracing: calls €0.06
+*** SHOW DOWN ***
+eljudas888: shows [9s Jh] (a pair of Nines)
+kastaracing: mucks hand 
+eljudas888 collected €0.26 from pot
+*** SUMMARY ***
+Total pot €0.27 | Rake €0.01 
+Board [Qc 9d 5c 2h 8d]
+Seat 1: eljudas888 (big blind) showed [9s Jh] and won (€0.26) with a pair of Nines
+Seat 2: kastaracing mucked [5s Ac]
+Seat 5: edgarbermejo (button) folded on the Flop
+Seat 6: MN-UCM (small blind) folded before Flop
+
+
+
+PokerStars Hand #124768539000:  Hold'em No Limit (€0.01/€0.02 EUR) - 2014/11/09 12:26:50 CET [2014/11/09 6:26:50 ET]
+Table 'Algedi III' 6-max Seat #6 is the button
+Seat 1: eljudas888 (€2.92 in chips) 
+Seat 2: kastaracing (€0.15 in chips) 
+Seat 5: edgarbermejo (€1.65 in chips) 
+Seat 6: MN-UCM (€1.45 in chips) 
+eljudas888: posts small blind €0.01
+kastaracing: posts big blind €0.02
+Beltranus: sits out 
+*** HOLE CARDS ***
+Dealt to MN-UCM [Tc 8d]
+edgarbermejo: folds 
+MN-UCM: raises €0.04 to €0.06
+eljudas888: calls €0.05
+kastaracing: folds 
+*** FLOP *** [8h Ah Jd]
+eljudas888: checks 
+MN-UCM: bets €0.08
+eljudas888: folds 
+Uncalled bet (€0.08) returned to MN-UCM
+MN-UCM collected €0.13 from pot
+MN-UCM: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.14 | Rake €0.01 
+Board [8h Ah Jd]
+Seat 1: eljudas888 (small blind) folded on the Flop
+Seat 2: kastaracing (big blind) folded before Flop
+Seat 5: edgarbermejo folded before Flop (didn't bet)
+Seat 6: MN-UCM (button) collected (€0.13)
+
+
+
+PokerStars Hand #124768558105:  Hold'em No Limit (€0.01/€0.02 EUR) - 2014/11/09 12:27:21 CET [2014/11/09 6:27:21 ET]
+Table 'Algedi III' 6-max Seat #1 is the button
+Seat 1: eljudas888 (€2.86 in chips) 
+Seat 2: kastaracing (€0.13 in chips) 
+Seat 3: Beltranus (€1 in chips) 
+Seat 5: edgarbermejo (€1.65 in chips) 
+Seat 6: MN-UCM (€1.52 in chips) 
+kastaracing: posts small blind €0.01
+Beltranus: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to MN-UCM [2c Kc]
+edgarbermejo: calls €0.02
+MN-UCM: folds 
+eljudas888: raises €0.07 to €0.09
+kastaracing: raises €0.04 to €0.13 and is all-in
+Beltranus: folds 
+edgarbermejo: folds 
+eljudas888: calls €0.04
+*** FLOP *** [6d 4c 8s]
+*** TURN *** [6d 4c 8s] [3c]
+*** RIVER *** [6d 4c 8s 3c] [Jc]
+*** SHOW DOWN ***
+kastaracing: shows [Ac 6h] (a pair of Sixes)
+eljudas888: shows [Ts Qh] (high card Queen)
+kastaracing collected €0.29 from pot
+*** SUMMARY ***
+Total pot €0.30 | Rake €0.01 
+Board [6d 4c 8s 3c Jc]
+Seat 1: eljudas888 (button) showed [Ts Qh] and lost with high card Queen
+Seat 2: kastaracing (small blind) showed [Ac 6h] and won (€0.29) with a pair of Sixes
+Seat 3: Beltranus (big blind) folded before Flop
+Seat 5: edgarbermejo folded before Flop
+Seat 6: MN-UCM folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #124768576258:  Hold'em No Limit (€0.01/€0.02 EUR) - 2014/11/09 12:27:49 CET [2014/11/09 6:27:49 ET]
+Table 'Algedi III' 6-max Seat #2 is the button
+Seat 1: eljudas888 (€2.73 in chips) 
+Seat 2: kastaracing (€0.29 in chips) 
+Seat 3: Beltranus (€0.98 in chips) 
+Seat 5: edgarbermejo (€1.63 in chips) 
+Seat 6: MN-UCM (€1.52 in chips) 
+Beltranus: posts small blind €0.01
+neburcr was removed from the table for failing to post
+edgarbermejo: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to MN-UCM [Jc Ks]
+MN-UCM: raises €0.04 to €0.06
+eljudas888: raises €0.28 to €0.34
+kastaracing: folds 
+Beltranus: folds 
+edgarbermejo: folds 
+ferkanzai joins the table at seat #4 
+MN-UCM: folds 
+Uncalled bet (€0.28) returned to eljudas888
+eljudas888 collected €0.15 from pot
+eljudas888: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.15 | Rake €0 
+Seat 1: eljudas888 collected (€0.15)
+Seat 2: kastaracing (button) folded before Flop (didn't bet)
+Seat 3: Beltranus (small blind) folded before Flop
+Seat 5: edgarbermejo (big blind) folded before Flop
+Seat 6: MN-UCM folded before Flop
+
+
+
+PokerStars Hand #124768589884:  Hold'em No Limit (€0.01/€0.02 EUR) - 2014/11/09 12:28:11 CET [2014/11/09 6:28:11 ET]
+Table 'Algedi III' 6-max Seat #3 is the button
+Seat 1: eljudas888 (€2.82 in chips) 
+Seat 2: kastaracing (€0.29 in chips) 
+Seat 3: Beltranus (€0.97 in chips) 
+Seat 5: edgarbermejo (€1.61 in chips) 
+Seat 6: MN-UCM (€1.46 in chips) 
+ferkanzai will be allowed to play after the button
+edgarbermejo: posts small blind €0.01
+MN-UCM: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to MN-UCM [3d 7d]
+eljudas888: calls €0.02
+kastaracing: folds 
+Beltranus: folds 
+edgarbermejo: calls €0.01
+MN-UCM: checks 
+*** FLOP *** [8h 2c Qc]
+edgarbermejo: bets €0.02
+MN-UCM: folds 
+eljudas888: folds 
+Uncalled bet (€0.02) returned to edgarbermejo
+edgarbermejo collected €0.06 from pot
+*** SUMMARY ***
+Total pot €0.06 | Rake €0 
+Board [8h 2c Qc]
+Seat 1: eljudas888 folded on the Flop
+Seat 2: kastaracing folded before Flop (didn't bet)
+Seat 3: Beltranus (button) folded before Flop (didn't bet)
+Seat 5: edgarbermejo (small blind) collected (€0.06)
+Seat 6: MN-UCM (big blind) folded on the Flop
+
+
+
+PokerStars Hand #124768610906:  Hold'em No Limit (€0.01/€0.02 EUR) - 2014/11/09 12:28:45 CET [2014/11/09 6:28:45 ET]
+Table 'Algedi III' 6-max Seat #5 is the button
+Seat 1: eljudas888 (€2.80 in chips) 
+Seat 2: kastaracing (€0.29 in chips) 
+Seat 3: Beltranus (€0.97 in chips) 
+Seat 5: edgarbermejo (€1.65 in chips) 
+Seat 6: MN-UCM (€1.44 in chips) 
+MN-UCM: posts small blind €0.01
+eljudas888: posts big blind €0.02
+ferkanzai: sits out 
+*** HOLE CARDS ***
+Dealt to MN-UCM [Jd 8h]
+kastaracing: calls €0.02
+Beltranus: folds 
+edgarbermejo: raises €0.07 to €0.09
+MN-UCM: folds 
+eljudas888: calls €0.07
+kastaracing: calls €0.07
+*** FLOP *** [3c Qs 7c]
+eljudas888: checks 
+kastaracing: checks 
+edgarbermejo: checks 
+*** TURN *** [3c Qs 7c] [8c]
+eljudas888: bets €0.02
+kastaracing: calls €0.02
+edgarbermejo: folds 
+*** RIVER *** [3c Qs 7c 8c] [2d]
+eljudas888: bets €0.14
+kastaracing: calls €0.14
+*** SHOW DOWN ***
+eljudas888: shows [Ts 7d] (a pair of Sevens)
+kastaracing: shows [Qh 6d] (a pair of Queens)
+kastaracing collected €0.58 from pot
+*** SUMMARY ***
+Total pot €0.60 | Rake €0.02 
+Board [3c Qs 7c 8c 2d]
+Seat 1: eljudas888 (big blind) showed [Ts 7d] and lost with a pair of Sevens
+Seat 2: kastaracing showed [Qh 6d] and won (€0.58) with a pair of Queens
+Seat 3: Beltranus folded before Flop (didn't bet)
+Seat 5: edgarbermejo (button) folded on the Turn
+Seat 6: MN-UCM (small blind) folded before Flop
+
+
+
+PokerStars Hand #124768635730:  Hold'em No Limit (€0.01/€0.02 EUR) - 2014/11/09 12:29:24 CET [2014/11/09 6:29:24 ET]
+Table 'Algedi III' 6-max Seat #6 is the button
+Seat 1: eljudas888 (€2.55 in chips) 
+Seat 2: kastaracing (€0.62 in chips) 
+Seat 3: Beltranus (€0.97 in chips) 
+Seat 5: edgarbermejo (€1.56 in chips) 
+Seat 6: MN-UCM (€1.43 in chips) 
+eljudas888: posts small blind €0.01
+kastaracing: posts big blind €0.02
+ferkanzai is disconnected 
+ferkanzai has timed out while disconnected
+ferkanzai: is sitting out 
+*** HOLE CARDS ***
+Dealt to MN-UCM [4c Th]
+Beltranus: folds 
+edgarbermejo: folds 
+MN-UCM: folds 
+eljudas888: raises €0.04 to €0.06
+kastaracing: folds 
+Uncalled bet (€0.04) returned to eljudas888
+eljudas888 collected €0.04 from pot
+eljudas888: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 1: eljudas888 (small blind) collected (€0.04)
+Seat 2: kastaracing (big blind) folded before Flop
+Seat 3: Beltranus folded before Flop (didn't bet)
+Seat 5: edgarbermejo folded before Flop (didn't bet)
+Seat 6: MN-UCM (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #124768654980:  Hold'em No Limit (€0.01/€0.02 EUR) - 2014/11/09 12:29:55 CET [2014/11/09 6:29:55 ET]
+Table 'Algedi III' 6-max Seat #1 is the button
+Seat 1: eljudas888 (€2.57 in chips) 
+Seat 2: kastaracing (€0.60 in chips) 
+Seat 3: Beltranus (€0.97 in chips) 
+Seat 5: edgarbermejo (€1.56 in chips) 
+Seat 6: MN-UCM (€1.43 in chips) 
+kastaracing: posts small blind €0.01
+Beltranus: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to MN-UCM [7s Th]
+edgarbermejo: calls €0.02
+MN-UCM: folds 
+eljudas888: calls €0.02
+kastaracing: calls €0.01
+Beltranus: checks 
+*** FLOP *** [Ah 6d Ts]
+kastaracing: checks 
+Beltranus: checks 
+edgarbermejo: bets €0.04
+eljudas888: folds 
+kastaracing: calls €0.04
+Beltranus: calls €0.04
+*** TURN *** [Ah 6d Ts] [4s]
+kastaracing: checks 
+Beltranus: checks 
+edgarbermejo: bets €0.09
+kastaracing: folds 
+Beltranus: folds 
+Uncalled bet (€0.09) returned to edgarbermejo
+edgarbermejo collected €0.19 from pot
+*** SUMMARY ***
+Total pot €0.20 | Rake €0.01 
+Board [Ah 6d Ts 4s]
+Seat 1: eljudas888 (button) folded on the Flop
+Seat 2: kastaracing (small blind) folded on the Turn
+Seat 3: Beltranus (big blind) folded on the Turn
+Seat 5: edgarbermejo collected (€0.19)
+Seat 6: MN-UCM folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #124768690116:  Hold'em No Limit (€0.01/€0.02 EUR) - 2014/11/09 12:30:51 CET [2014/11/09 6:30:51 ET]
+Table 'Algedi III' 6-max Seat #2 is the button
+Seat 1: eljudas888 (€2.55 in chips) 
+Seat 2: kastaracing (€0.54 in chips) 
+Seat 3: Beltranus (€0.91 in chips) 
+Seat 5: edgarbermejo (€1.69 in chips) 
+Seat 6: MN-UCM (€1.43 in chips) 
+Beltranus: posts small blind €0.01
+edgarbermejo: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to MN-UCM [Td 3d]
+MN-UCM: folds 
+eljudas888: folds 
+kastaracing: calls €0.02
+Beltranus: raises €0.08 to €0.10
+edgarbermejo: folds 
+kastaracing: calls €0.08
+*** FLOP *** [5h 9d 2c]
+Beltranus: bets €0.11
+kastaracing: calls €0.11
+*** TURN *** [5h 9d 2c] [4h]
+Beltranus: bets €0.23
+kastaracing: calls €0.23
+*** RIVER *** [5h 9d 2c 4h] [Kh]
+Beltranus: bets €0.47 and is all-in
+kastaracing: calls €0.10 and is all-in
+Uncalled bet (€0.37) returned to Beltranus
+*** SHOW DOWN ***
+Beltranus: shows [Ts Jh] (high card King)
+kastaracing: shows [5c 5s] (three of a kind, Fives)
+kastaracing collected €1.05 from pot
+*** SUMMARY ***
+Total pot €1.10 | Rake €0.05 
+Board [5h 9d 2c 4h Kh]
+Seat 1: eljudas888 folded before Flop (didn't bet)
+Seat 2: kastaracing (button) showed [5c 5s] and won (€1.05) with three of a kind, Fives
+Seat 3: Beltranus (small blind) showed [Ts Jh] and lost with high card King
+Seat 5: edgarbermejo (big blind) folded before Flop
+Seat 6: MN-UCM folded before Flop (didn't bet)
+
+
+

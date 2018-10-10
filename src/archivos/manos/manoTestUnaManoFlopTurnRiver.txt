@@ -1,0 +1,44 @@
+﻿PokerStars Hand #124768397540:  Hold'em No Limit (€0.01/€0.02 EUR) - 2014/11/09 12:23:06 CET [2014/11/09 6:23:06 ET]
+Table 'Algedi III' 6-max Seat #3 is the button
+Seat 1: eljudas888 (€2.43 in chips) 
+Seat 2: kastaracing (€0.94 in chips) 
+Seat 3: rosaenithsa (€0.76 in chips) 
+Seat 5: edgarbermejo (€1.51 in chips) 
+Seat 6: MN-UCM (€0.77 in chips) 
+edgarbermejo: posts small blind €0.01
+MN-UCM: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to MN-UCM [4c 7h]
+eljudas888: folds 
+kastaracing: calls €0.02
+rosaenithsa: raises €0.02 to €0.04
+edgarbermejo: calls €0.03
+MN-UCM: folds 
+kastaracing: calls €0.02
+*** FLOP *** [Qs 7s 5s]
+edgarbermejo: checks 
+kastaracing: checks 
+rosaenithsa: checks 
+*** TURN *** [Qs 7s 5s] [3d]
+edgarbermejo: checks 
+kastaracing: checks 
+rosaenithsa: checks 
+*** RIVER *** [Qs 7s 5s 3d] [7c]
+edgarbermejo: checks 
+kastaracing: bets €0.02
+rosaenithsa: calls €0.02
+edgarbermejo: calls €0.02
+*** SHOW DOWN ***
+kastaracing: shows [7d 8h] (three of a kind, Sevens)
+rosaenithsa: mucks hand 
+edgarbermejo: mucks hand 
+kastaracing collected €0.19 from pot
+*** SUMMARY ***
+Total pot €0.20 | Rake €0.01 
+Board [Qs 7s 5s 3d 7c]
+Seat 1: eljudas888 folded before Flop (didn't bet)
+Seat 2: kastaracing showed [7d 8h] and won (€0.19) with three of a kind, Sevens
+Seat 3: rosaenithsa (button) mucked [Ac 9h]
+Seat 5: edgarbermejo (small blind) mucked [Kd 5c]
+Seat 6: MN-UCM (big blind) folded before Flop
+

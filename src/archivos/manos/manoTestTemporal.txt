@@ -1,0 +1,38 @@
+﻿
+PokerStars Hand #124768431451:  Hold'em No Limit (€0.01/€0.02 EUR) - 2014/11/09 12:23:59 CET [2014/11/09 6:23:59 ET]
+Table 'Algedi III' 6-max Seat #5 is the button
+Seat 1: eljudas888 (€2.43 in chips) 
+Seat 2: kastaracing (€1.07 in chips) 
+Seat 3: rosaenithsa (€0.70 in chips) 
+Seat 5: edgarbermejo (€1.45 in chips) 
+Seat 6: MN-UCM (€0.75 in chips) 
+MN-UCM: posts small blind €0.01
+eljudas888: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to MN-UCM [Th 7d]
+kastaracing: folds 
+rosaenithsa: raises €0.02 to €0.04
+edgarbermejo: raises €1.41 to €1.45 and is all-in
+MN-UCM: folds 
+eljudas888: calls €1.43
+rosaenithsa: calls €0.66 and is all-in
+*** FLOP *** [8h 2d 8c]
+*** TURN *** [8h 2d 8c] [Ts]
+*** RIVER *** [8h 2d 8c Ts] [8d]
+*** SHOW DOWN ***
+eljudas888: shows [Qd Ad] (three of a kind, Eights)
+edgarbermejo: shows [Qh Ah] (three of a kind, Eights)
+eljudas888 collected €0.72 from side pot
+edgarbermejo collected €0.72 from side pot
+rosaenithsa: mucks hand 
+eljudas888 collected €1.01 from main pot
+edgarbermejo collected €1.01 from main pot
+*** SUMMARY ***
+Total pot €3.61 Main pot €2.02. Side pot €1.44. | Rake €0.15 
+Board [8h 2d 8c Ts 8d]
+Seat 1: eljudas888 (big blind) showed [Qd Ad] and won (€1.73) with three of a kind, Eights
+Seat 2: kastaracing folded before Flop (didn't bet)
+Seat 3: rosaenithsa mucked [Ac 3d]
+Seat 5: edgarbermejo (button) showed [Qh Ah] and won (€1.73) with three of a kind, Eights
+Seat 6: MN-UCM (small blind) folded before Flop
+

@@ -1,0 +1,24 @@
+ Bienvendo a New Poker Stove (NPS).
+ 
+ NPS te permite calcular la equity de tu rango contra los de uno o más oponentes (Hold'Em),
+ o de una mano contra otra (omaha). Para introducir un rango, simplemente escribelo en el
+ apartado correspondiente, o haz click en el botón del jugador que quieras, y selecciona
+ ahí tu rango (por medio de botones o un rango guardado). NPS también permite seleccionar
+ cartas del board, y posibles cartas muertas.
+
+ Una vez tengas todos los rangos marcados, dale click a "Evaluate", y espera a que el panel
+ de "output" ensene los resultados. 
+ 
+ En NPS, la equity se calcula desplegando todas las manos que componen un rango, y realizando
+ un número fijo de simulaciones aleatorias, evaluando la mano ganadora en cada una de ellas.
+ Esos resultados se cuantifican y se convierten en los porcentajes que se ven en los resultados.
+ 
+ Además de calcular equities, NPS te permite definir tus propios rangos y rankings, para
+ personalizar las especificaciones del cálculo. Tanto los rangos como los rankings se crean
+ desde la pestaña "Añadir Rankings y Rangos".
+
+ Para añadir un ranking, simplemente clicka en orden a todas las casillas de manos, para
+ determinar tus preferencias. Cuando hayas acabado, haz click en "Aceptar".
+
+ Para añadir un rango, simplemente introduce un nombre y un porcentaje para ese rango, y
+ NPS se ocupa de guardarlo.
